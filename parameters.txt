@@ -1,0 +1,30 @@
+
+
+left tilt:  
+Average C: -1.2786291033056958
+Average D: 1.7738629432174622
+
+left pan:  
+Average A: -0.6001669153098366
+Average B: -3.519050592103776
+Average C: 0.0
+Average D: 0.0
+
+
+right pan:  
+Average A: -0.6004150404291795
+Average B: 2.7404283886457885
+Average C: 0.0
+Average D: 0.0
+
+right tilt:  
+Average A: 0.0
+Average B: 0.0
+Average C: 30.81630810102735
+Average D: 3.651439735298863
+
+right tilt:  
+Average A: 0.0
+Average B: 0.0
+Average C: 30.81630810102735
+Average D: 3.651439735298863
